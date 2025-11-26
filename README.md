@@ -1,4 +1,4 @@
-# ChemBio Machine Learning Project
+# Bioinformatics ML Project
 
 A bioinformatics machine learning pipeline for protein sequence classification using multiple advanced techniques to handle imbalanced data.
 
